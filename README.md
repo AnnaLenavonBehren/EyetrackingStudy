@@ -8,7 +8,7 @@ The scenes were created to resemble natural environments as closely as possible,
 This repository includes the study codebase. Due to the use of commercial assets, the VR scenes were not uploaded. Exemplary scenes are displayed below:  
 
 
-<img src="[outdoor_scene.png](https://github.com/user-attachments/assets/f38294ed-2fab-421f-911b-0225d3af03f0)" alt="outdoor scene" width="200"/>
+<img src="https://github.com/AnnaLenavonBehren/EyetrackingStudy/blob/78d24798d7041dbe5ecc34861ef276ef7483809f/indoor_scene.png" alt="indoor scene" height="200"/> <img src="https://github.com/AnnaLenavonBehren/EyetrackingStudy/blob/78d24798d7041dbe5ecc34861ef276ef7483809f/outdoor_scene.png" alt="outdoor scene" height="200"/>
 ---
 
 **Technical requirements:** 

@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes: []
+  m_configObjects:
+    Varjo.XR.Settings: {fileID: 11400000, guid: 593763fb6bc5def42b64a440a5a96868, type: 2}
+    com.htc.upm.wave.xrsdk.xrsettings: {fileID: 11400000, guid: 150acd94eaf80e14baf53b8238467b1e, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: e654f7232a8471c468e7c3cbd3640fa1, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 261d8e654b9306c4bbcaf0fc2d3dcb57, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a83e9bfad2ddef646b4e79922e4ebf73, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: d9a69defbdd1734448e809e6b1d70957, type: 2}

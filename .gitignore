@@ -72,6 +72,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 *.asset
+<<<<<<< HEAD
 *.png
 _TerrainAutoUpgrade/
 ADG_Textures/
@@ -83,3 +84,6 @@ HDRPDefaultResources/
 PlantsPackage/
 Terrain/
 Standard Assets/
+=======
+*.png
+>>>>>>> 097088f1ca8ac4f99021ccc14ab548d3a6ab5451

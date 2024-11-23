@@ -71,4 +71,15 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-Assets/
+*.asset
+*.png
+_TerrainAutoUpgrade/
+ADG_Textures/
+ArchVizPRO Interior Vol.6/
+Flooded_Grounds/
+Forst/
+Grass and FLowers Pack 1/
+HDRPDefaultResources/
+PlantsPackage/
+Terrain/
+Standard Assets/

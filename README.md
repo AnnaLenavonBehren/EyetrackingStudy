@@ -7,6 +7,8 @@ The scenes were created to resemble natural environments as closely as possible,
 
 This repository includes the study codebase. Due to the use of commercial assets, the VR scenes were not uploaded. Exemplary scenes are displayed below:  
 
+
+<img src="[outdoor_scene.png](https://github.com/user-attachments/assets/f38294ed-2fab-421f-911b-0225d3af03f0)" alt="outdoor scene" width="200"/>
 ---
 
 **Technical requirements:** 
